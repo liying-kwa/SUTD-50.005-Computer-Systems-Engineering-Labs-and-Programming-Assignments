@@ -13,5 +13,8 @@ An investigative lab that teaches the concept of 'privileged programs' and what 
 ## Lab 4: Internet Routes and Measurement of Round Trip Times
 An introductory lab to networks which explores the ping and traceroute utilities.
 
+## Lab 5: Symmetric Key Encryption and Message Digest
+A program that makes use of DES for data encryption, MD5 for creating message digests and RSA for digital signing.
+
 ## Programming Assignment 1
 A programming activity that involves building a shell and creating a daemon process, both of which are common applications of fork().

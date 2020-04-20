@@ -16,5 +16,8 @@ An introductory lab to networks which explores the ping and traceroute utilities
 ## Lab 5: Symmetric Key Encryption and Message Digest
 A program that makes use of DES for data encryption, MD5 for creating message digests and RSA for digital signing.
 
+## Lab 6: Internet Domain Name System
+A lab that uses specialised network tools to perform and analyse DNS queries. This involves using dig to perform DNS queries and Wireshark to trace and read DNS packets sent to and from a machine.
+
 ## Programming Assignment 1
 A programming activity that involves building a shell and creating a daemon process, both of which are common applications of fork().

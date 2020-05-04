@@ -21,3 +21,8 @@ A lab that uses specialised network tools to perform and analyse DNS queries. Th
 
 ## Programming Assignment 1
 A programming activity that involves building a shell and creating a daemon process, both of which are common applications of fork().
+
+## Programming Assignment 2
+A secure file upload application from a client to an Internet file server. The security features implemented are as such:
+1. Before the file is uploaded, the client should authenticate the identity of the file server so that the data would not be leaked.
+2. The confidentiality of the data should be protected against eavesdropping during the upload.
